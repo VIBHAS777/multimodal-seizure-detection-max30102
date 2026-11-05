@@ -50,3 +50,4 @@ class RealTimeSeizureMonitor:
             self.alert_callback(result)
 
         return result
+
